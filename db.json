@@ -1,0 +1,19 @@
+{
+  "events" : [
+    {
+      "title" : "Release RN course",
+      "date" : "2020-06-15T00:00.000Z",
+      "id": "05dafc66-bd91-43a0-a752-4dc40f039144"
+    },
+    {
+      "title" : "Birthday!",
+      "date" : "2020-08-16T00:00.000Z",
+      "id": "001c9b6d-00a9-465c-a2d3-afb7176a0a87"
+    },
+    {
+      "title" : "Next Holiday",
+      "date" : "2020-02-14T00:00.000Z",
+      "id": "4cdbe78f-54df-4769-bf3b-02a930161ec5"
+    }
+  ]
+}
